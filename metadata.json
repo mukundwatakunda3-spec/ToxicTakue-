@@ -1,0 +1,6 @@
+{
+  "name": "ToxicTakue BMW",
+  "description": "The ultimate BMW life simulator and high-speed street racing game set in Germany & USA. Customize M-Power fleets, race, dine, detail, and find romance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
